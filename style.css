@@ -1,0 +1,19 @@
+body {
+    background-color: #223;
+    font-family: "Lato", sans-serif;
+    color: #ccc;
+  }
+  
+  #chart-container {
+    height: 600px;
+  }
+  
+  a {
+    color: #aaa;
+  }
+  
+  .footnote {
+    text-align: right;
+    font-size: 14px;
+    margin-top: 10px;
+  }
